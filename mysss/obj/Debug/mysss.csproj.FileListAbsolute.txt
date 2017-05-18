@@ -1,0 +1,135 @@
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\mysss.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\mysss.pdb
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\xcontrol.core.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\AndroidModel.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Mvvm.v14.2.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Core.v14.2.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.LayoutControl.v14.2.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\Renderer.Core.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Grid.v14.2.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Controls.v14.2.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\xEngine.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Grid.v14.2.Core.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.NavBar.v14.2.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\StartClass.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Ribbon.v14.2.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Data.v14.2.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\SlimDX.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Printing.v14.2.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Docking.v14.2.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Layout.v14.2.Core.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\xcontrol.core.pdb
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\AndroidModel.pdb
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Mvvm.v14.2.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Core.v14.2.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.LayoutControl.v14.2.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\Renderer.Core.pdb
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Grid.v14.2.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Controls.v14.2.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Grid.v14.2.Core.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.NavBar.v14.2.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Ribbon.v14.2.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Data.v14.2.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Printing.v14.2.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Docking.v14.2.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\DevExpress.Xpf.Layout.v14.2.Core.xml
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\de\DevExpress.Xpf.Core.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\es\DevExpress.Xpf.Core.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ja\DevExpress.Xpf.Core.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ru\DevExpress.Xpf.Core.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\de\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\es\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\de\DevExpress.Xpf.Controls.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\es\DevExpress.Xpf.Controls.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ja\DevExpress.Xpf.Controls.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ru\DevExpress.Xpf.Controls.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\de\DevExpress.Xpf.Grid.v14.2.Core.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\es\DevExpress.Xpf.Grid.v14.2.Core.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ja\DevExpress.Xpf.Grid.v14.2.Core.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ru\DevExpress.Xpf.Grid.v14.2.Core.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\de\DevExpress.Xpf.NavBar.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\es\DevExpress.Xpf.NavBar.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ja\DevExpress.Xpf.NavBar.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ru\DevExpress.Xpf.NavBar.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\de\DevExpress.Xpf.Ribbon.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\es\DevExpress.Xpf.Ribbon.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ja\DevExpress.Xpf.Ribbon.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ru\DevExpress.Xpf.Ribbon.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\de\DevExpress.Xpf.Printing.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\es\DevExpress.Xpf.Printing.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ja\DevExpress.Xpf.Printing.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ru\DevExpress.Xpf.Printing.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\de\DevExpress.Xpf.Docking.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\es\DevExpress.Xpf.Docking.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ja\DevExpress.Xpf.Docking.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\bin\Debug\ru\DevExpress.Xpf.Docking.v14.2.resources.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\obj\Debug\mysss.csprojResolveAssemblyReference.cache
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\obj\Debug\mysss.dll
+c:\users\xia\documents\visual studio 2015\Projects\mysss\mysss\obj\Debug\mysss.pdb
+E:\下载\MyItem\mysss\bin\Debug\mysss.dll
+E:\下载\MyItem\mysss\bin\Debug\mysss.pdb
+E:\下载\MyItem\mysss\bin\Debug\xcontrol.core.dll
+E:\下载\MyItem\mysss\obj\Debug\mysss.dll
+E:\下载\MyItem\mysss\obj\Debug\mysss.pdb
+E:\下载\MyItem\mysss\bin\Debug\mysss.dll.config
+E:\下载\MyItem\mysss\bin\Debug\UD.txt
+E:\下载\MyItem\mysss\obj\Debug\mysss.AppSetting.resources
+E:\下载\MyItem\mysss\obj\Debug\mysss.csproj.GenerateResource.Cache
+E:\下载\MyItem\mysss\obj\Debug\mysss.csprojResolveAssemblyReference.cache
+E:\mysss\mysss\bin\Debug\UD.txt
+E:\mysss\mysss\bin\Debug\mysss.dll
+E:\mysss\mysss\bin\Debug\mysss.pdb
+E:\mysss\mysss\bin\Debug\xcontrol.core.dll
+E:\mysss\mysss\obj\Debug\mysss.AppSetting.resources
+E:\mysss\mysss\obj\Debug\mysss.csproj.GenerateResource.Cache
+E:\mysss\mysss\obj\Debug\mysss.dll
+E:\mysss\mysss\obj\Debug\mysss.pdb
+E:\mysss\mysss\obj\Debug\mysss.InfoPanelForm.resources
+E:\mysssNew\mysss\bin\Debug\UD.txt
+E:\mysssNew\mysss\bin\Debug\mysss.dll
+E:\mysssNew\mysss\bin\Debug\mysss.pdb
+E:\mysssNew\mysss\bin\Debug\AndroidModel.dll
+E:\mysssNew\mysss\bin\Debug\xcontrol.core.dll
+E:\mysssNew\mysss\obj\Debug\mysss.AppSetting.resources
+E:\mysssNew\mysss\obj\Debug\mysss.InfoPanelForm.resources
+E:\mysssNew\mysss\obj\Debug\mysss.csproj.GenerateResource.Cache
+E:\mysssNew\mysss\obj\Debug\mysss.dll
+E:\mysssNew\mysss\obj\Debug\mysss.pdb
+E:\mysssNew\mysss\obj\Debug\mysss.csprojResolveAssemblyReference.cache
+E:\mysssList\mysss\bin\Debug\UD.txt
+E:\mysssList\mysss\bin\Debug\mysss.dll
+E:\mysssList\mysss\bin\Debug\mysss.pdb
+E:\mysssList\mysss\bin\Debug\AndroidModel.dll
+E:\mysssList\mysss\bin\Debug\xcontrol.core.dll
+E:\mysssList\mysss\obj\Debug\mysss.AppSetting.resources
+E:\mysssList\mysss\obj\Debug\mysss.FrmShowEveryPhoneState.resources
+E:\mysssList\mysss\obj\Debug\mysss.InfoPanelForm.resources
+E:\mysssList\mysss\obj\Debug\mysss.csproj.GenerateResource.Cache
+E:\mysssList\mysss\obj\Debug\mysss.dll
+E:\mysssList\mysss\obj\Debug\mysss.pdb
+E:\mysssList\mysss\obj\Debug\mysss.csprojResolveAssemblyReference.cache
+E:\mysssListWithChange\mysss\bin\Debug\UD.txt
+E:\mysssListWithChange\mysss\bin\Debug\mysss.dll
+E:\mysssListWithChange\mysss\bin\Debug\mysss.pdb
+E:\mysssListWithChange\mysss\bin\Debug\AndroidModel.dll
+E:\mysssListWithChange\mysss\bin\Debug\xcontrol.core.dll
+E:\mysssListWithChange\mysss\obj\Debug\mysss.AppSetting.resources
+E:\mysssListWithChange\mysss\obj\Debug\mysss.FrmSetLQ.resources
+E:\mysssListWithChange\mysss\obj\Debug\mysss.FrmShowEveryPhoneState.resources
+E:\mysssListWithChange\mysss\obj\Debug\mysss.InfoPanelForm.resources
+E:\mysssListWithChange\mysss\obj\Debug\mysss.csproj.GenerateResource.Cache
+E:\mysssListWithChange\mysss\obj\Debug\mysss.dll
+E:\mysssListWithChange\mysss\obj\Debug\mysss.pdb
+E:\mysssListWithChange\mysss\obj\Debug\mysss.csprojResolveAssemblyReference.cache
